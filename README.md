@@ -1,5 +1,9 @@
 # ConformalPrediction
 
+[![DOI](https://zenodo.org/badge/635545679.svg)](https://zenodo.org/badge/latestdoi/635545679)
+
+
+
 Description: This repo contains starter code for the application of conformal prediction to acoustic estimation tasks (specifically DOA estimation).
 
 

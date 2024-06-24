@@ -5,7 +5,8 @@ Created on Tue Mar  7 13:54:41 2023
 
 @author: ikhurjekar
 """
-
+##This code uses a Python wrapper for the Acoustics toolbox (https://oalib-acoustics.org/AcousticsToolbox/index_at.html). 
+## The wrapper can be cloned and installed from https://github.com/hunterakins/pyat 
 
 import numpy as np
 import scipy.stats as st
